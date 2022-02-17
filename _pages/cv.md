@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Download my CV in pdf format: [CV](/Meshhal_cv_Feb2022.pdf)
+You can download a PDF copy of my CV [here](/Meshhal_cv_Feb2022.pdf).
 
 Education
 ======
-* PhD in Computational Chemical Physics, Universität Rostock, 2023 (expected)
+* PhD in Computational Chemical Physics, Universität Rostock (Germany), 2023 (expected)
 * MSc in Physical Chemistry, Menofia University (Egypt), 2019
 * BSc in Chemistry,  Menofia University (Egypt), 2014
   
