@@ -1,4 +1,5 @@
 ---
+permalink: /
 title: Moyassar Meshhal
-layout: page
+author_profile: true
 ---
