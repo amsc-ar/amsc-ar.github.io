@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Moyassar M. Meshhal"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "PhD student"
-  location         : "Rostock, Germany"
+  location         : # "Rostock, Germany"
   employer         : "Universität Rostock"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
