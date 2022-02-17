@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Moyassar Meshhal / CompChem"
+title                    : "M. Meshhal / CompChem"
 title_separator          : "-"
 name                     : &name "Moyassar M. Meshhal"
 description              : &description "PhD student"
