@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Moyassar M. Meshhal"
-  avatar           : "profile.png"
+  avatar           : "Moyassar_Meshhal_small.jpg"
   bio              : "PhD student"
   location         : "Rostock, Germany"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/mmeshhal" # "academicpages"
+  github           : "mmeshhal" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
