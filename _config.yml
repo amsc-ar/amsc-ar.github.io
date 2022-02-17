@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Moyassar M. Meshhal"
-  avatar           : "./images/me.jpg"
+  avatar           : "images/me.jpg"
   bio              : "PhD student"
   location         : # "Rostock, Germany"
   employer         : "Universität Rostock"
