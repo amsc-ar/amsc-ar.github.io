@@ -6,7 +6,7 @@ author_profile: true
 
 Welcome!
 ======
-I am a PhD student in the [Molecular Quantum Dynamics](http://web.physik.uni-rostock.de/quantendynamik/index.html) group at the [University of Rostock](https://www.uni-rostock.de/). 
+I am a PhD student in the research group of Prof. [Oliver Kühn](http://web.physik.uni-rostock.de/quantendynamik/staff/kuehn.html) ([Molecular Quantum Dynamics Group](http://web.physik.uni-rostock.de/quantendynamik/index.html)) at the [University of Rostock](https://www.uni-rostock.de/). 
 
 My [research](/research/) focus on utilizing the state-of-the-art molecular dynamics simulations and other computational methods (e.g., DFT and DFT-based tight binding methods) to study 2D materials interfaces with liquid.
 
