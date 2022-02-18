@@ -11,21 +11,13 @@ redirect_from:
 
 You can download a PDF copy of my CV [here](/Meshhal_cv_Feb2022.pdf).
 
+
 Education
 ======
-* PhD in Computational Chemical Physics, Universität Rostock (Germany), 2023 (expected)
-* MSc in Physical Chemistry, Menofia University (Egypt), 2019
-* BSc in Chemistry,  Menofia University (Egypt), 2014
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct. 2019 - present : PhD in Computational Chemical Physics, Universität Rostock (Germany)
+* Seb. 2016 - Feb. 2019 : MSc in Physical Chemistry, Menofia University (Egypt)
 
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -43,3 +35,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+--->
