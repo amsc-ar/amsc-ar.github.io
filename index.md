@@ -13,7 +13,7 @@ My <a style="color: #8B0000; text-decoration:none" href="/research/">research</a
 -->
 I use the state-of-the-art molecular dynamics simulations and other computational methods (e.g., DFT and DFT-based tight binding methods) to study interfaces of hybrid 2D materials. Although I am interested in different materials, the current main focus is on graphene oxide/liquids interfaces.
 
-<div id="wrapper" style="width:100%; text-align:center">
+<div id="wrapper" style="width:100%; text-align:center" onclick="location.href='https://chemrxiv.org/engage/chemrxiv/article-details61fedc0ee0f52963f8a8e79a'">
  <img src="/images/GO-water-GO.png" alt="HBs bridge" width="375" height="300" class="center">
  </div>
  <br /> 
