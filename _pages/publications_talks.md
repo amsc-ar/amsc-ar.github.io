@@ -5,12 +5,12 @@ permalink: /publications_talks/
 author_profile: true
 ---
 
-[Publications](https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en)
+Publications
 ===
-<!---[Google Scholar profile](https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en)--->
+[Google Scholar profile](https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en)
 
 <!--**2022**-->
-* <u>M. Meshhal</u>, O. Kühn., "The Role of Hydrogen-Bonded Bridges for the Diffusion of Water Confined Between Graphene Oxide Layers". [submitted](https://chemrxiv.org/engage/chemrxiv/article-details/61fedc0ee0f52963f8a8e79a)
+* <u>M. Meshhal</u>, O. Kühn., "The Role of Hydrogen-Bonded Bridges for the Diffusion of Water Confined Between Graphene Oxide Layers", *submitted*. [ChemRxiv link](https://chemrxiv.org/engage/chemrxiv/article-details/61fedc0ee0f52963f8a8e79a)
 
 <!--**2019**-->
 * <u>M. Meshhal</u>, S. El-Demerdash, A. El-Nahas, "A Thermochemical Computational Study on Hydroxyquinlines and their Azulene Analogues", *J. Mol. Struct*, 1183 (**2019**) 70-77.
