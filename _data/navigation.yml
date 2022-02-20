@@ -1,14 +1,14 @@
 # main links links
 main:
-#  - title: "Home"
-#    url: /
+  - title: "Home"
+    url: /
   
   - title: "Research"
     url: /research/
     # file: "/_pages/research.md"
     
-  - title: "Publications/Talks"
-    url: /publications_talks/
+#  - title: "Publications/Talks"
+#    url: /publications_talks/
   
 #  - title: "Publications"
 #    url: /publications/
@@ -25,10 +25,10 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
     
-  - title: "Curriculum Vitae"
+  - title: "About Me"
     url: /cv/
     
 #  - title: "Guide"
