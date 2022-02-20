@@ -19,7 +19,7 @@ Education
 
 Publications
 ===
-<a style="color: #8B0000" href="https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en">Google Scholar profile</a>
+<!--<a style="color: #8B0000" href="https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en">Google Scholar profile</a>-->
 
 <!--**2022**-->
 * <u>M. Meshhal</u>, O. Kühn., "The Role of Hydrogen-Bonded Bridges for the Diffusion of Water Confined Between Graphene Oxide Layers", *submitted*. <a style="color: #8B0000;" href="https://chemrxiv.org/engage/chemrxiv/article-details/61fedc0ee0f52963f8a8e79a">ChemRxiv</a>
