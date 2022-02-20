@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF copy of my full CV can be downloaded <a style="color: #8B0000">[here](/Meshhal_cv_Feb2022.pdf)</a>.
+A PDF copy of my full CV can be downloaded <a style="color: #8B0000" href="/Meshhal_cv_Feb2022.pdf">here</a>.
 
 
 Education
@@ -36,8 +36,8 @@ Talks
 
 Posters
 ===
-* Mar. 16, 2022, <a style="color: #8B0000;">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
-* Feb. 24, 2022, <a style="color: #8B0000;">Virtual Winter School on Computational Chemistry</a>, "Double Layer Graphene Oxide and Confined Water".
+* Mar. 16, 2022, <a style="color: #8B0000; text-decoration:none" ref="https://www.cecam.org/workshop-details/1063">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
+* Feb. 24, 2022, <a style="color: #8B0000; text-decoration:none" href="https://winterschool.cc/#">Virtual Winter School on Computational Chemistry</a>, "Double Layer Graphene Oxide and Confined Water".
 
 <!---
 Publications
