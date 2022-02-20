@@ -5,7 +5,7 @@ main:
   
   - title: "Research"
     url: /research/
-    file: "/_pages/research.md"
+    # file: "/_pages/research.md"
     
   - title: "Publications/Talks"
     url: /publications_talks/
