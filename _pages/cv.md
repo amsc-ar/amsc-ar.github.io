@@ -32,12 +32,12 @@ Publications
 
 Talks
 ===
-* Nov. 18, 2021, <a style="color: #8B0000; text-decoration:none" href="https://www.physik.uni-rostock.de/arbeitsgruppen/gruppenuebergreifendes/graduiertenkolleg/test/n/tba-new60d6f9f5c2000956210395-1-2-1/">GRK Doctoral Seminark</a>, **Title**: "Double Layer Graphene Oxide and Confined Water".
+* Nov. 18, 2021, <a style="color: #8B0000; text-decoration:none" href="https://www.physik.uni-rostock.de/arbeitsgruppen/gruppenuebergreifendes/graduiertenkolleg/test/n/tba-new60d6f9f5c2000956210395-1-2-1/">GRK Doctoral Seminark</a>, <br />**Title**: "Double Layer Graphene Oxide and Confined Water".
 
 Posters
 ===
-* Mar. 16, 2022, <a style="color: #8B0000; text-decoration:none" href="https://www.cecam.org/workshop-details/1063">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, **Title**: "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
-* Feb. 24, 2022, <a style="color: #8B0000; text-decoration:none" href="https://winterschool.cc/#">Virtual Winter School on Computational Chemistry</a>, **Title**: "Double Layer Graphene Oxide and Confined Water".
+* Mar. 16, 2022, <a style="color: #8B0000; text-decoration:none" href="https://www.cecam.org/workshop-details/1063">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, <br />**Title**: "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
+* Feb. 24, 2022, <a style="color: #8B0000; text-decoration:none" href="https://winterschool.cc/#">Virtual Winter School on Computational Chemistry</a>, <br />**Title**: "Double Layer Graphene Oxide and Confined Water".
 
 <!---
 Publications
