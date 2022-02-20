@@ -15,7 +15,8 @@ I use the state-of-the-art molecular dynamics simulations and other computationa
 
 <div id="wrapper" style="width:100%; text-align:center">
  <img src="/images/GO-water-GO.png" alt="HBs bridge" width="375" height="300" class="center">
- </div><br /> 
+ </div>
+ <br /> 
 <br /> 
 
 Recent News

@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Graphene Oxide Interfaces with Liquids
+Graphene Oxide/Liquids Interfaces
 ===
 
 
