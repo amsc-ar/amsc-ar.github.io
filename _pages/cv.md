@@ -36,7 +36,7 @@ Talks
 
 Posters
 ===
-* Mar. 16, 2022, <a style="color: #8B0000; text-decoration:none" ref="https://www.cecam.org/workshop-details/1063">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
+* Mar. 16, 2022, <a style="color: #8B0000; text-decoration:none" href="https://www.cecam.org/workshop-details/1063">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
 * Feb. 24, 2022, <a style="color: #8B0000; text-decoration:none" href="https://winterschool.cc/#">Virtual Winter School on Computational Chemistry</a>, "Double Layer Graphene Oxide and Confined Water".
 
 <!---
