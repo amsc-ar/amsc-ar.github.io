@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF copy of my full CV can be downloaded [<a style="color: #8B0000">here</a>](/Meshhal_cv_Feb2022.pdf).
+A PDF copy of my full CV can be downloaded <a style="color: #8B0000">[here](/Meshhal_cv_Feb2022.pdf)</a>.
 
 
 Education
