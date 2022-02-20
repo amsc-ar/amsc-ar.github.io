@@ -20,7 +20,7 @@ Publications
 
 Talks
 ===
-* Nov. 18, 2021, [GRK Doctoral Seminar](https://www.physik.uni-rostock.de/arbeitsgruppen/gruppenuebergreifendes/graduiertenkolleg/test/n/tba-new60d6f9f5c2000956210395-1-2-1/), "Double Layer Graphene Oxide and Confined Water".
+* Nov. 18, 2021, [GRK Doctoral Seminar.nounderline {text-decoration: none; }](https://www.physik.uni-rostock.de/arbeitsgruppen/gruppenuebergreifendes/graduiertenkolleg/test/n/tba-new60d6f9f5c2000956210395-1-2-1/), "Double Layer Graphene Oxide and Confined Water".
 
 Posters
 ===
