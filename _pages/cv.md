@@ -38,6 +38,7 @@ Posters
 ===
 * Mar. 16, 2022, <a style="color: #8B0000;">Recent Advances in Machine Learning Accelerated Molecular Dynamics</a>, "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers"
 * Feb. 24, 2022, <a style="color: #8B0000;">Virtual Winter School on Computational Chemistry</a>, "Double Layer Graphene Oxide and Confined Water".
+
 <!---
 Publications
 ======
