@@ -21,4 +21,4 @@ I use the state-of-the-art molecular dynamics simulations and other computationa
 
 Recent News
 ======
-- **Feb 07, 2022**: Our latest priprint "[The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers" is available on <a style="color: #8B0000;" href="https://chemrxiv.org/engage/chemrxiv/article-details/61fedc0ee0f52963f8a8e79a">ChemRxiv</a>.
+- **Feb 07, 2022**: Our latest priprint "The Role of Hydrogen-Bonded Bridges for the Diﬀusion of Water Conﬁned Between Graphene Oxide Layers" is available on <a style="color: #8B0000;" href="https://chemrxiv.org/engage/chemrxiv/article-details/61fedc0ee0f52963f8a8e79a">ChemRxiv</a>.
