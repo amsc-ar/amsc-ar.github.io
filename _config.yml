@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "M. Meshhal / CompChem"
+title                    : "AMSC"
 title_separator          : "-"
-name                     : &name "Moyassar M. Meshhal"
-description              : &description "PhD student"
-url                      : https://mmeshhal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Arab Molecular Simulation Community"
+#description              : &description "PhD student"
+url                      : https://amsc-ar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Moyassar M. Meshhal"
-  avatar           : "profile.jpg"
-  bio              : "PhD student"
+#  name             : "Moyassar M. Meshhal"
+#  avatar           : "profile.jpg"
+#  bio              : "PhD student"
   location         : # "Rostock, Germany"
-  employer         : "Universität Rostock"
+#  employer         : "Universität Rostock"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
-  email            : "moyassar.meshhal@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Moyassar-Meshhal" # example: "https://www.researchgate.net/profile/yourprofile"
+#  googlescholar    : "https://scholar.google.com/citations?user=QosbiFoAAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
+  email            : "ctchemistry.ar@gmail.com"
+#  researchgate     :  "https://www.researchgate.net/profile/Moyassar-Meshhal" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         : # "moyassar.m"
   foursquare       :
-  github           : "mmeshhal" # "academicpages"
+#  github           : "mmeshhal" # "academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "moyassar89"
-  orcid            : "https://orcid.org/0000-0003-4746-3793" # "http://orcid.org/yourorcidurl"
+#  linkedin         : "moyassar89"
+ # orcid            : "https://orcid.org/0000-0003-4746-3793" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "moyassar_m" # "replacethistwitterhandle"
+#  twitter          : "moyassar_m" # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
