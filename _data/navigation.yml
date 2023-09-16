@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
   
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+ #   url: /research/
     # file: "/_pages/research.md"
     
 #  - title: "Publications/Talks"
@@ -16,8 +16,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/ 
 
-  - title: "Tutorials"
-    url: /tutorials/   
+#  - title: "Tutorials"
+#    url: /tutorials/   
 
 #  - title: "Teaching"
 #    url: /teaching/    
@@ -25,12 +25,12 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /blog/
+#  - title: "Blog Posts"
+#    url: /blog/
 #    url: /year-archive/
     
-  - title: "About Me"
-    url: /cv/
+ # - title: "About Me"
+  #  url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/
