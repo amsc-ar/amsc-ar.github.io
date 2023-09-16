@@ -14,6 +14,7 @@ Upcoming Seminars
 =======
 
 | Date | Starting Time | Speaker | Talk's Title |
+|:---- |:------------- |:------- |:------------ |
 | 15.10.2023 | 18:00 | Oliver Kühn | Photophysics of metal complexes |
 | 29.10.2023 | 18:00 | Mark Miller | TBA |
 | 12.11.2023 | 17:00 | Walid Magdy | A brief history of AI in NLP, the Arabic NLP story |
