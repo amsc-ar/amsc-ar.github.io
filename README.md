@@ -1,3 +1,3 @@
-# Moyassar Meshhal
+# AMSC
 
-Personal github site
+Arab Molecular Simulations Community
