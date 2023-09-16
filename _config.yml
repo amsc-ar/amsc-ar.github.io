@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "AMSC"
+#  name             : "AMSC"
 #  avatar           : "profile.jpg"
 #  bio              : "PhD student"
   location         : # "Rostock, Germany"
