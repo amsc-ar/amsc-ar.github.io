@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "AMSC"
+title                    : "Arab Molecular Simulation Community"
 title_separator          : "-"
-name                     : &name "Arab Molecular Simulation Community"
+name                     : &name "AMSC"
 #description              : &description "PhD student"
 url                      : https://amsc-ar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Arab Molecular Simulation Community"
+  name             : "AMSC"
 #  avatar           : "profile.jpg"
 #  bio              : "PhD student"
   location         : # "Rostock, Germany"
