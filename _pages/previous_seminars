@@ -3,8 +3,7 @@ layout: archive
 title: ""
 permalink: /amsc_about/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
