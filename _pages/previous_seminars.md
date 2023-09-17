@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /amsc_about/
+permalink: /previous_seminars/
 author_profile: true
 
 ---
