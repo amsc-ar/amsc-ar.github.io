@@ -18,7 +18,7 @@ Upcoming Seminars
 | Date | Starting Time (CET) | Talk's Title | Speaker | Affiliation |
 |:---- |:------------------- |:------------ |:------- |:------------|
 | 15.10.2023 | 18:00 | Photophysics of metal complexes | Prof. Dr. Oliver Kühn | University of Rostock, Germany | 
-| 29.10.2023 | 18:00 | TBA | Dr. Mark Miller | Durham University, UK) | 
+| 29.10.2023 | 18:00 | TBA | Dr. Mark Miller | Durham University, UK | 
 | 12.11.2023 | 17:00 | A brief history of AI in NLP, the Arabic NLP story | Dr. Walid Magdy | The University of Edinburgh, UK |
 | 26.11.2023 | 18:00 | X-ray spectroscopy: A theory perspective | Dr. Sergey Bokarev | Technical University of Munich, Germany |
 | 10.12.2023 | TBA | TBA | TBA | TBA |
@@ -30,11 +30,13 @@ Upcoming Seminars
 Selected Previous Seminars
 ============
 
-| Date | Speaker | Talk's Title |
-|:---- |:------- |:------------ |
-| 19.02.2023 | Dr. Hossam Elgabarty &#10;&#10; (Paderborn University, Germany) | The time-dependent approach to spectroscopy |
-| 20.11.2022 | Dr. Mohamed Shibl &#10;&#10; (Qatar Uniersity, Qatar) | Mechanisms and Laser Control of Tautomerization Reactions |
-| 06.11.2022 | Dr. Walid Hassan &#10;&#10; (Cairo University, Egypt) | Potential energy surface as a key role to understand rate and spectroscopy |
-| 28.08.2022 | Dr. Morad El-Hendawy &#10;&#10; (New Valley University, Egypt) | Rational design of organic catalysts for carbon dioxide fixation |
-| 17.07.2022 | Dr. Mahmoud Noamaan &#10;&#10; (Cairo University, Egypt) | Basic concepts of numerical solutions of differential equations |
-| 23.04.2022 | Dr. Ashour Ahmed &#10;&#10; (University of Rostock, Germany) | Computational Chemistry: General Overview |
+| Date | Talk's Title | Speaker | Affiliation |
+|:---- |:------------ |:------- |:------------|
+| 19.02.2023 | The time-dependent approach to spectroscopy | Dr. Hossam Elgabarty | Paderborn University, Germany |
+| 20.11.2022 | Mechanisms and Laser Control of Tautomerization Reactions | Dr. Mohamed Shibl | Qatar Uniersity, Qatar | 
+| 06.11.2022 | Potential energy surface as a key role to understand rate and spectroscopy | Dr. Walid Hassan | Cairo University, Egypt |
+| 16.10.2022 | Fighting against COVID-19: A computational biophysics approach | Dr. Abdo Elfiky | Cairo University, Egypt |
+| 28.08.2022 | Rational design of organic catalysts for carbon dioxide fixation | Dr. Morad El-Hendawy | New Valley University, Egypt |
+| 14.08.2022 | Hydrogen storage materials | Dr. Kamal Soliman | Benha University, Egypt |
+| 17.07.2022 | Basic concepts of numerical solutions of differential equations | Dr. Mahmoud Noamaan | Cairo University, Egypt | 
+| 23.04.2022 | Computational Chemistry: General Overview | Dr. Ashour Ahmed | University of Rostock, Germany |
