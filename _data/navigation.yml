@@ -29,8 +29,14 @@ main:
 #    url: /blog/
 #    url: /year-archive/
     
- # - title: "About Me"
-  #  url: /cv/
+  - title: "About AMSC"
+    url: /amsc_about/
+
+  - title: "News"
+    url: /news/
+
+  - title: "Previous Seminars"
+    url: /previous_seminars/
     
 #  - title: "Guide"
 #    url: /markdown/
