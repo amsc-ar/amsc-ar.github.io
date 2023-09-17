@@ -10,6 +10,8 @@ The Arab Molecular Simulations Community (AMSC) is dedicated to fostering connec
 
 Over the past year, we have diligently organized a series of presentations featuring expert Arab researchers. In an effort to diversify and broaden our perspectives, AMSC has made the exciting decision to extend invitations to experts from beyond the Arabic-speaking community.
 
+<br>
+
 Upcoming Seminars
 =======
 
@@ -23,6 +25,7 @@ Upcoming Seminars
 | 24.12.2023 | TBA | TBA | TBA |
 | 14.01.2024 | TBA | Stefan Grimme | Low-cost electronic structure methods for large molecules
 
+<br>
 
 Selected Previous Seminars
 ============
