@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Arab Molecular Simulation Community"
+title                    : "AMSC"
 title_separator          : "-"
-name                     : &name "AMSC"
+name                     : &name "Arab Molecular Simulation Community"
 #description              : &description "PhD student"
 url                      : https://amsc-ar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
