@@ -25,18 +25,3 @@ Upcoming Seminars
 | 24.12.2023 | TBA | TBA | TBA | TBA |
 | 14.01.2024 | TBA | Low-cost electronic structure methods for large molecules | Prof. Dr. Stefan Grimme | University of Bonn, Germany | 
 
-<br>
-
-Selected Previous Seminars
-============
-
-| Date | Talk's Title | Speaker | Affiliation |
-|:---- |:------------ |:------- |:------------|
-| 19.02.2023 | The time-dependent approach to spectroscopy | Dr. Hossam Elgabarty | Paderborn University, Germany |
-| 20.11.2022 | Mechanisms and Laser Control of Tautomerization Reactions | Dr. Mohamed Shibl | Qatar Uniersity, Qatar | 
-| 06.11.2022 | Potential energy surface as a key role to understand rate and spectroscopy | Dr. Walid Hassan | Cairo University, Egypt |
-| 16.10.2022 | Fighting against COVID-19: A computational biophysics approach | Dr. Abdo Elfiky | Cairo University, Egypt |
-| 28.08.2022 | Rational design of organic catalysts for carbon dioxide fixation | Dr. Morad El-Hendawy | New Valley University, Egypt |
-| 14.08.2022 | Hydrogen storage materials | Dr. Kamal Soliman | Benha University, Egypt |
-| 17.07.2022 | Basic concepts of numerical solutions of differential equations | Dr. Mahmoud Noamaan | Cairo University, Egypt | 
-| 23.04.2022 | Computational Chemistry: General Overview | Dr. Ashour Ahmed | University of Rostock, Germany |
