@@ -13,7 +13,7 @@ Over the past year, we have diligently organized a series of presentations featu
 Upcoming Seminars
 =======
 
-| Date | Starting Time | Speaker | Talk's Title |
+| Date | Starting Time (CET) | Speaker | Talk's Title |
 |:---- |:------------- |:------- |:------------ |
 | 15.10.2023 | 18:00 | Oliver Kühn | Photophysics of metal complexes |
 | 29.10.2023 | 18:00 | Mark Miller | TBA |
@@ -24,3 +24,14 @@ Upcoming Seminars
 | 14.01.2024 | TBA | Stefan Grimme | Low-cost electronic structure methods for large molecules
 
 
+Selected Previous Seminars
+============
+
+| Date | Speaker | Talk's Title |
+|:---- |:------- |:------------ |
+| 19.02.2023 | Dr. Hossam Elgabarty | The time-dependent approach to spectroscopy |
+| 20.11.2022 | Dr. Mohamed Shibl | Mechanisms and Laser Control of Tautomerization Reactions |
+| 06.11.2022 | Dr. Walid Hassan | Potential energy surface as a key role to understand rate and spectroscopy |
+| 28.08.2022 | Dr. Morad El-Hendawy | Rational design of organic catalysts for carbon dioxide fixation |
+| 17.07.2022 | Dr. Mahmoud Noamaan | Basic concepts of numerical solutions of differential equations |
+| 23.04.2022 | Dr. Ashour Ahmed | Computational Chemistry: General Overview |
