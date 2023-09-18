@@ -14,8 +14,8 @@ Over the past year, we have diligently organized a series of presentations featu
 Founders & Organizers
 =====================
 
-Dr. Ashour Ahmed (University of Rostock, Germany)
-Dr. Hossam Elgabarty (Paderborn University, Germany)
-Moyassar Meshhal (University of Rostock, Germany)
-Rashid Al-Heidous (Imperial College London, UK)
-Abrar Sameh (Menoufia University, Egypt)
+- Dr. Ashour Ahmed (University of Rostock, Germany)
+- Dr. Hossam Elgabarty (Paderborn University, Germany)
+- Moyassar Meshhal (University of Rostock, Germany)
+- Rashid Al-Heidous (Imperial College London, UK)
+- Abrar Sameh (Menoufia University, Egypt)
