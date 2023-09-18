@@ -4,11 +4,11 @@ title: ""
 author_profile: true
 ---
 
-Welcom to AMSC
+Welcome to the Arab Molecular Simulations Community (AMSC)!
 ======
-The Arab Molecular Simulations Community (AMSC) is a community founded by a group of young arab researchers who are passionate about computational chemistry/physics and molecular simulations. We dedicated to fostering connections among Arab scientists and researchers specializing in computational chemistry and physics. Our primary mission revolves around nurturing collaborative efforts and facilitating the exchange of knowledge. A key pillar of our initiative is to make the field of molecular simulation more accessible to aspiring Arab researchers, primarily by disseminating information in the Arabic language.
+We're a passionate group of young Arab researchers dedicated to computational chemistry, physics, and molecular simulations. Our mission is simple: connect Arab scientists, promote collaboration, and share knowledge.
 
-Over the past year, we have diligently organized a series of presentations featuring expert Arab researchers. In an effort to diversify and broaden our perspectives, AMSC has made the exciting decision to extend invitations to experts from beyond the Arabic-speaking community.
+We're here to make molecular simulation more accessible to aspiring Arab researchers. Explore our resources and join us in elevating the fields of computational chemistry and physics, together.
 
 <br>
 
