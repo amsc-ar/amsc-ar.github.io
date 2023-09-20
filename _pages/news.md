@@ -19,4 +19,4 @@ Upcoming Seminars
 | 10.12.2023 | TBA | TBA | TBA | TBA |
 | 24.12.2023 | TBA | TBA | TBA | TBA |
 | 14.01.2024 | TBA | Low-cost electronic structure methods for large molecules | Prof. Dr. Stefan Grimme | University of Bonn, Germany | 
-| 28.01.2024 | 18:00 | The Chemistry of Phosphate Binding to Soil Constituents: A Computational Chemistry Perspective | Ashour Ahmed |
+| 28.01.2024 | 18:00 | The Chemistry of Phosphate Binding to Soil Constituents: A Computational Chemistry Perspective | Ashour Ahmed | University of Rostock, Germany | 
