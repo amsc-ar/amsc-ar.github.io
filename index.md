@@ -22,7 +22,7 @@ Upcoming Seminars
 | 12.11.2023 | 17:00 | A brief history of AI in NLP, the Arabic NLP story | Dr. Walid Magdy | The University of Edinburgh, UK |
 | 26.11.2023 | 18:00 | X-ray spectroscopy: A theory perspective | Dr. Sergey Bokarev | Technical University of Munich, Germany |
 | 10.12.2023 | TBA | TBA | TBA | TBA |
-| 24.12.2023 | TBA | TBA | TBA | TBA |
+| 24.12.2023 | TBA | TBA | Dr. Safwat Abdel-Azeim | King Fahd University of Petroleum and Minerals |
 | 14.01.2024 | TBA | Low-cost electronic structure methods for large molecules | Prof. Dr. Stefan Grimme | University of Bonn, Germany | 
 | 28.01.2024 | 18:00 | The Chemistry of Phosphate Binding to Soil Constituents: A Computational Chemistry Perspective | Dr. Ashour Ahmed | University of Rostock, Germany | 
 
